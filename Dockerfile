@@ -1,5 +1,4 @@
-FROM python:3.9.1-buster
-pip install --upgrade pip
+FROM python:3.9.1-buster -m install --upgrade pip
 
 WORKDIR /root/dreamkiller
 
