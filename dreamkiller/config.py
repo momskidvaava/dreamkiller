@@ -58,7 +58,6 @@ class Config(object):
     SPAMMERS = None
     ALLOW_CHATS = True
     START_IMG = "http://tele.gra.ph/file/4cbb01809bc01b6ab68d4.jpg"  
-    TEMP_DOWNLOAD_DIRECTORY = "./  
     ALLOW_EXCL = None
     BL_CHATS = []  # List of groups that you want blacklisted.
     SPAMMERS = None
