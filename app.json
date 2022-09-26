@@ -22,17 +22,17 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather",
          "required": true,
-         "value": ""
+         "value": "5605728947:AAHGZRsBITZF6LY8L4_08pGwvdcMkKpXrCE"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "1480988"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "be76b2fd25b50222b0e1eee141d6a259"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -42,11 +42,11 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": ""
+         "value": "5616310867"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": ""
+         "value": "KRISHNA_THULSI"
       },
       "INFOPIC": {
          "description": "userinfo picture Show In Info.",
@@ -55,12 +55,12 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "StrawHatTeam"
+         "value": "kanimangalamkovilakam"
       },
       "UPDATES_CHANNEL": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "StrawHatUpdates"
+         "value": "KK_LINKS"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
@@ -70,7 +70,7 @@
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001792513216"
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Saitama support then keep the current ID's here at they are and add yours.",
@@ -80,7 +80,7 @@
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
          "required": false,
-         "value": ""
+         "value": "CfJJPMqNfU~IIrQDSf~RJCBFcOvbB0QkOPPCqfBG_ScN1rJ_H7ZudCjXFvswy2S~"
       }, 
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -142,7 +142,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it",
          "required": false,
-         "value": "https://t.me/SAlTAM4"
+         "value": "https://t.me/KRISHNA_THULSI"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -156,7 +156,7 @@
       "START_IMG": {
        "description": "image that seems when hit start",
        "required": false,
-       "value": "https://te.legra.ph/file/ba19e43d1377d356a0a18.jpg"
+       "value": "http://telegra.ph/file/4cbb01809bc01b6ab68d4.jpg"
       },
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people.",
