@@ -1,5 +1,5 @@
 FROM python:3.9.1-buster
--m pip install --upgrade pip
+pip install --upgrade pip
 
 WORKDIR /root/dreamkiller
 
