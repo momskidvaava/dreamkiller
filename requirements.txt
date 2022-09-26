@@ -65,6 +65,7 @@ telegraph
 youtube_search
 glitch_this
 NumPy
+search-engine-parser==0.4.2
 opencv-python-headless
 countryinfo==0.1.2
 secureme #encrypt
